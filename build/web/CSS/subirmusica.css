@@ -1,0 +1,40 @@
+.contenido h2{
+    color: darkcyan;
+}
+
+.sub-contenido {
+    font-family: inherit;
+    color: aliceblue;
+	padding: 2px;
+    background-color: #454545;
+    
+}
+
+
+
+
+
+
+
+.tabla{
+    
+   height: 200px;
+    width: auto;
+    overflow: scroll;
+    justify-content: space-around;
+
+
+}
+
+.tabla-head{
+    font-size: 1em;
+    color: #292929;
+    background-color: deepskyblue;
+   font-weight: bold;
+}
+.tabla-body{
+    border: 1px solid #333;
+    font-size: 1.1em;
+    color: #67A7A9;
+    
+}

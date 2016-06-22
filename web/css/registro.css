@@ -1,0 +1,208 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    
+}
+
+
+html,body{
+    background-color: aliceblue;
+}
+
+section#formulario{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -440px;
+    margin-top: -450px;
+    margin-bottom: 50px;
+    width: 850px;
+    min-height: 800px;
+    background-color: white;
+    overflow: hidden;
+    border-radius: 10px;
+    
+}
+
+
+p#titulo{
+    font-size: 1.5em;
+    color:  dodgerblue;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+
+p#titulo2{
+    font-size: 1.2em;
+    color:  darkblue;
+    text-align: center;
+    margin-bottom: 3px;
+    margin-top: 3px;
+    padding-top: 3px;
+}
+
+input[type="text"], input[type="mail"] , input[type="password"] {
+
+    width: 350px;
+    height: 35px;
+    margin-left: 40px;
+    margin-top: 10px;
+    padding-left: 10px;
+    font-size: 0.9em;
+    outline-color: none;
+    border: 0px;
+    background-color: #dcdcdc;
+    border-radius: 5px;
+    
+}
+
+
+
+
+
+
+
+input[type="submit"]{
+    margin: 20px;
+    padding-bottom: 2px;
+    width: 350px;
+    height: 35px;
+    outline: none;
+    border: 0px;
+    background-color: dodgerblue;
+    color: white;
+    font-size: 1.2em;
+    border-radius: 5px;
+    -webkit-box-shadow:0px 5px 0px #659dbf;
+    
+}
+
+
+
+
+
+
+
+
+
+p#info {
+  font-size: 15px;
+  text-align: left; 
+  margin-left: 20px; 
+  margin-top: 15px;
+  padding: 5px;
+  color: #001F3F;
+  border-bottom: 2px solid #ccc ; 
+  border-bottom-style: dotted;
+  border-bottom-width: medium;
+  margin-bottom: 9px;
+
+}
+
+
+ .info p {
+    margin-top: 20px; 
+}
+
+
+.radio{
+    margin-left: 45px;
+    font-family: sans-serif;
+    font-size: 14px;
+    color:  #001F3F; 
+}
+
+
+.registro{
+    
+   
+    padding: 25px 0;
+    margin-left: 40px;
+}
+
+
+
+.imagen{
+			-webkit-border-radius: 150px;
+			-moz-border-radius: 150px;
+			border-radius: 150px;	
+		}
+
+.contenedor{
+			background-color: dodgerblue;
+            margin-top: 30px;
+            margin-left: 40px;
+			padding: 5px;
+			width: 200px;
+			-webkit-border-radius: 150px;
+			-moz-border-radius: 150px;
+			-webkit-box-shadow: 1px 1px 10px #484848;
+			border-radius: 150px;	
+		}
+
+
+
+.imagen2{
+			-webkit-border-radius: 150px;
+			-moz-border-radius: 150px;
+			border-radius: 150px;	
+		}
+
+.contenedor2{
+			background-color: darkgray;
+            margin-top: 30px;
+            margin-left: 25px;
+			padding: 5px;
+			width: 400px;
+			-webkit-border-radius: 150px;
+			-moz-border-radius: 150px;
+			-webkit-box-shadow: 1px 1px 10px #484848;
+			border-radius: 150px;	
+		}
+
+
+.subirimagen{
+    margin-top: 15px;
+    margin-left: 20px;
+      
+}
+
+.registracion{
+    margin-left: 20px;
+     border-top: 2px solid #ccc ; 
+     border-top-style: dotted;
+     border-top-width: medium;
+     margin-top: 50px;
+}
+
+
+.primary{
+    margin-top: 0px;
+    margin-left: 80px;
+    text-decoration-color: aqua;
+}
+
+
+
+p#notice{
+    margin-top: 40px;
+    margin-left: 55px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+p#primary{
+    align-content: center;
+    margin-top: -25px;
+    margin-left: 290px;
+    padding: 20px;
+}
+
+.registrate{
+    margin-left: 250px;
+}
+

@@ -1,0 +1,50 @@
+<hr color="dodgerblue" size=1>
+            
+            
+            <section id="artistas">
+                <h4>Mis Listas</h4>
+                <div class="containerartistas">
+                    <div class="info-artistas">
+                        <img src="IMG/disco1.jpg" alt="">
+                        <h5>Coldplay</h5> 
+                    </div>
+                    
+                     <div class="info-artistas">
+                        <img src="IMG/discorihanna2.jpg" alt="">
+                         <h5>Rihanna</h5> 
+                    </div>
+                    
+                     <div class="info-artistas">
+                        <img src="IMG/discofifth3.jpg" alt="">
+                         <h5>Fifth Harmony</h5> 
+                    </div>
+                    
+                     <div class="info-artistas">
+                        <img src="IMG/discozayn4.png" alt="">
+                         <h5>ZAYN</h5> 
+                    </div>
+                    
+                     <div class="info-artistas">
+                        <img src="IMG/discosia5.jpg" alt="">
+                         <h5>Sia</h5> 
+                    </div>
+                    
+                     <div class="info-artistas">
+                        <img src="IMG/discotwuenty6.jpg" alt="">
+                         <h5>Twenty One Pilots</h5> 
+                    </div>
+                    
+                     <div class="info-artistas">
+                        <img src="IMG/discojustin7.jpg" alt="">
+                         <h5>Justin Bieber</h5> 
+                    </div>
+                    
+                     <div class="info-artistas">
+                        <img src="IMG/discoalan8.jpg" alt="">
+                         <h5>Alan Walker</h5> 
+                    </div>
+                <hr color="dodgerblue" size=1>
+                </div>
+                
+                 <hr color="dodgerblue" size=1>
+            </section>

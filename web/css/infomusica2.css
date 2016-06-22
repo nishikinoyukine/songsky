@@ -1,0 +1,182 @@
+
+
+         #cd1{
+            width: 100px;
+            height: 100px;
+            margin-top: 5%;
+            margin-left: -20%;
+            margin-bottom: 1%;
+        }
+        
+        #tcd1{
+            
+            margin-left: 2%;
+            margin-bottom: auto;
+            font-size: 0.8em;
+            color: gray;
+            
+        }
+        
+          #cd2{
+            width: 100px;
+            height: 100px;
+            margin-top: -15%;
+            margin-left: 20%;
+            margin-bottom: 1%;
+            left: 55em;
+            bottom: 47em;
+        }
+        
+        #tcd2{
+            margin-top: -6%;
+            margin-left: 19%;
+            bottom: 47em;
+            color: gray;
+            
+        }
+        
+        #cd3{
+            width: 100px;
+            height: 100px;
+            
+            left: 55em;
+            bottom: 47em;
+        }
+        
+        #tcd3{
+            
+            left: 55em;
+            bottom: 47em;
+            color: white;
+            
+        }
+        
+          #cd4{
+            width: 100px;
+            height: 100px;
+            
+            left: 45em;
+            bottom: 58.5em;
+        }
+        
+        #tcd4{
+            
+            left: 45em;
+            bottom: 58.5em;
+            color: white;
+            
+        }
+        
+          #cd5{
+            width: 100px;
+            height: 100px;
+            
+            left: 65em;
+            bottom: 82.5em;
+        }
+        
+        #tcd5{
+           
+            left: 65em;
+            bottom: 82.5em;
+            color: white;
+            
+        }
+        
+          #cd6{
+            width: 100px;
+            height: 100px;
+            
+            left: 65em;
+            bottom: 82.5em;
+        }
+        
+        #tcd6{
+            
+            left: 65em;
+            bottom: 82.5em;
+            color: white;
+            
+        }
+        
+          #cd7{
+            width: 100px;
+            height: 100px;
+            
+            left: 75em;
+            bottom: 106.2em;
+        }
+        
+        #tcd7{
+           
+            left: 75em;
+            bottom: 106.2em;
+            color: white;
+            
+        }
+        
+          #cd8{
+            width: 100px;
+            height: 100px;
+            
+            left: 75em;
+            bottom: 106.2em;
+        }
+        
+        #tcd8{
+            
+            left: 75em;
+            bottom: 106.2em;
+            color: white;
+            
+        }
+
+
+#info h4{
+    margin-left: 3%;
+    text-align: left;
+    font-family: inherit;
+    font-size: 30px;
+    color: dodgerblue;  
+}
+
+
+div#textovideo{
+    margin-left: 3%;
+    text-align: left;
+    font-family: inherit;
+    font-size: 30px;
+    color: deepskyblue;  
+}
+
+
+
+
+ div#video{
+           
+            margin-left: 3%;
+            margin-bottom: 5%;
+            width: 630px;
+            height: 360px;
+            z-index:-10;
+        }
+
+#videoprincipal{
+            margin-left: 3%;
+            margin-top: 1%;
+            margin-bottom: 1%;
+            width: 640px;
+            height: 360px;
+            z-index:-10;
+}
+
+div#info{
+    
+    float: right;
+    margin-right: 1%;
+    margin-top: -518px;
+    
+    width: 60%;
+    height: 50%;
+    background-color: #292929;
+}

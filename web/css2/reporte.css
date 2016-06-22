@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    background-color: #333;
+}
+
+
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    width: 100%;
+    height: 50px;
+    background:#1F1F1F;
+    color: deepskyblue;
+    
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100%;
+}
+
+.contenedor{
+    width: 98%;
+    margin: auto;
+}
+
+
+
+h1{
+    float: left;
+}
+
+header .contenedor{
+    display: table;
+}
+
+section{
+    width: 100%;
+    margin-bottom: 25px;
+}
+
+
+#bienvenidos{
+    text-align: center;
+    font-family: inherit;
+    font-size: 12px;
+    color: dodgerblue;
+}
+
+hr{  
+    margin-left: -100%;
+    margin-bottom: 80px;
+       
+}
+
+
+  
+
+input[type="search"] {
+
+    width: 450px;
+    height: 35px;
+    margin-left: 40px;
+    margin-top: 10px;
+    padding-left: 10px;
+    font-size: 0.9em;
+    outline-color: none;
+    border: 0px;
+    background-color: grey;
+    border-radius: 5px;
+    
+}
+
+footer .containerfooter{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: -15px;
+    padding-bottom: 25px;
+    background-color: #1F1F1F;
+}
+
+.copy{
+    font-size: 20px;
+    color: dimgray;
+}
+
+.redessociales{
+    width: 100%;
+    text-align: center;
+    font-size: 28px;
+}
+
+.redessociales a{
+    color: dodgerblue;
+    text-decoration: none;
+}
+
+
+
+@media (min-width:1024px){
+    .contenedor{
+        width: 1800px;
+    }
+}
+
+
+  
+h3{
+    font-size: 30px;
+    text-align: center;
+    font-family: inherit;
+    color: deepskyblue;
+    padding: 5px;
+}
+
+
+
+
+
+
+#tablareporte {
+  align-content: center;
+    margin-left: 10%;
+    margin-bottom: 19%;
+  width: 1500px;
+  border: 5px solid #0CACC1;
+  border-collapse: collapse;
+}
+
+
+#tablareporte th, #tablareporte td {
+    width: 500px;
+    height: 60px;
+  border: 1px solid #333;
+    background-color: ghostwhite;
+}
+ 
+#instruccionesreporte{
+    font-family: inherit;
+    text-align: center;
+    color: deepskyblue;
+    
+}
+
+
+#instruccionesreporte td{
+    background-color: #333;
+}
+
+
+#reportetabla{
+    font-size: 15px;
+    color: black;
+    background-color: #333;
+    
+}
+
+#filtro{
+  border-collapse: collapse;
+  border-spacing:  19px;
+
+}
+
+
+#filtro td{
+    font-family: inherit;
+    text-align: center;
+    color: deepskyblue;
+    background-color: #333;
+    
+    
+}
+
+
+table tr:hover {
+  background-color: dimgray;
+}
+
+.resumen {
+    margin-left: 10%;
+    font-family: inherit;
+    font-size: 20px;
+    color: skyblue;
+    
+}
+
+.carritodecomprita{
+    margin-left: 10%;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.carritodecomprita a {
+    color: dodgerblue;
+    font-size: 30px;
+}
+
+
+
+.button {
+	background:#7f8c8d;
+	color: black;
+	display:inline-block;
+	font-size:1.25em;
+	margin:20px;
+    margin-left: 78%;
+    margin-top: -18%;
+	padding:10px 0;
+	text-align:center;
+	width:200px;
+	text-decoration:none;
+	box-shadow:0px 3px 0px #373c3c;
+}
+ 
+.button span {
+	margin-right:0px;
+}
+
+
+.button.blue {
+	background-color: deepskyblue;
+	box-shadow:0px 3px 0px #266792;
+}
+
+
+.button.medium {
+	width:200px;
+}
+
+.button:hover {
+	box-shadow:0px 0px 0px;
+	padding-top:7px;
+}
+
+
